@@ -1,0 +1,6 @@
+setup.py
+contract_advisor.egg-info/PKG-INFO
+contract_advisor.egg-info/SOURCES.txt
+contract_advisor.egg-info/dependency_links.txt
+contract_advisor.egg-info/requires.txt
+contract_advisor.egg-info/top_level.txt
